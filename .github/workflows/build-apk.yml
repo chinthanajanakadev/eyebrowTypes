@@ -16,6 +16,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Set up Dart
+      uses: dart-lang/setup-dart@v1
+      with:
+        sdk: '2.17.1'  # Update to the required Dart SDK version
+
     - name: Set up JDK 11
       uses: actions/setup-java@v3
       with:
