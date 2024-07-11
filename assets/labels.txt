@@ -1,0 +1,7 @@
+Flat
+Hard Angled
+Rounded
+Soft Angled
+S-Shaped
+Straight
+Not Eyebrow
