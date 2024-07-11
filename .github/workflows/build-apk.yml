@@ -3,7 +3,7 @@ name: Flutter Android Build
 on:
   push:
     tags:
-      - 'v*.*.*'  # This triggers the workflow on version tags (e.g., v1.0.0)
+      - 'apk.*'  # This triggers the workflow on version tags (e.g., v1.0.0)
 
 jobs:
   build:
