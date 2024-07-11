@@ -2,11 +2,8 @@ name: Flutter Android Build
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    tags:
+      - 'v*.*.*'  # This triggers the workflow on version tags (e.g., v1.0.0)
 
 jobs:
   build:
