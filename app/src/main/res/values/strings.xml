@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Eyebrow Type</string>
+
+    <!-- AdMob IDs -->
+    <string name="admob_app_id">ca-app-pub-4977317413391095~9698572292</string>
+    <string name="admob_interstitial_id">ca-app-pub-4977317413391095/1070508049</string>
+    <string name="admob_banner_id">ca-app-pub-4977317413391095/3515225754</string>
+    <string name="admob_native_id">ca-app-pub-4977317413391095/3578903490</string>
+    <string name="admob_app_open_id">ca-app-pub-4977317413391095/6818624593</string>
+
+    <!-- UI Strings -->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_url">https://simpleappcreator.blogspot.com/p/privacy-policy-eyebrow-type_16.html</string>
+    <string name="share_text">My eyebrow type is %1$s (%2$s%%)! Check yours with Eyebrow Type app.</string>
+    <string name="share_chooser_title">Share Result</string>
+    <string name="edit_image">Edit Image</string>
+    <string name="close">Close</string>
+    <string name="menu">Menu</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="share">Share</string>
+    <string name="full_screen_image">Full Screen Image</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="default_image_desc">Default Image</string>
+    <string name="chart_zero">0</string>
+    <string name="chart_fifty">50</string>
+    <string name="chart_hundred">100</string>
+</resources>
